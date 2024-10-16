@@ -7,5 +7,6 @@ public class Student {
     public void section()
     {
         System.out.println("Hi, I am a student");
+        System.out.println("Again i am checking");
     }
 }
